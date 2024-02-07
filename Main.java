@@ -2,6 +2,7 @@
   import java.awt.*;
   public class Main {
     public static void main(String[] args) {
+      int x = 0;
 
       //Frame
       JFrame listMaker = new JFrame("Lists");
